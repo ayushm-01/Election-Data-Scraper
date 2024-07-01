@@ -1,0 +1,8 @@
+                 Constituency              State Total Seats
+0  Parliamentary Constituency                            543
+1       Assembly Constituency     Andhra Pradesh         175
+2       Assembly Constituency             Odisha         147
+3       Assembly Constituency      Bye Elections          25
+4       Assembly Constituency  Arunachal Pradesh         N/A
+5       Assembly Constituency             Sikkim         N/A
+
